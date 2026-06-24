@@ -65,5 +65,3 @@ The Netflix EDA project helped analyze trends, genres, countries, and content ty
 ## Author
 Krishika Bargali
 
-## Internship
-CodeAlpha Data Analytics Internship
